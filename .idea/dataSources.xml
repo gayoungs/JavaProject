@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Oracle" uuid="13fd0dc9-f386-4dfe-8848-0664861c0700">
+      <driver-ref>oracle.19</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@muw4l7igzifrs7e5_high?TNS_ADMIN=$PROJECT_DIR$/../Syshin/Study_files/Oracle_Cloud_Wallet/Wallet_MUW4L7IGZIFRS7E5</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="TNSADMIN_DIR" value="MUW4L7IGZIFRS7E5" />
+      </jdbc-additional-properties>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
